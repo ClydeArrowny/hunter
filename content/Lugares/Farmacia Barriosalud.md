@@ -1,10 +1,10 @@
 ---
 tags:
-  - Hunter
-  - Organization
+  - Lugares
+  - Farmacia
+  - Salud
 aliases:
   - Barriosalud
-alias:
 ---
 ## Reseña.
 

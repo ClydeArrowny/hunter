@@ -24,6 +24,4 @@ Como ultima nota, la numeración de sesiones corresponde a la primera interacci�
 
 # Otros vínculos.
 
-[[Mapa]] - El mapa se encuentra en construcción.
-
 [[Listado Jugadores]] - Breve resumen de participantes.

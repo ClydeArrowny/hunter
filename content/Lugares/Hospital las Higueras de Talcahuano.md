@@ -4,8 +4,9 @@ aliases:
   - Hospital las Higueras
   - las Higueras
 tags:
-  - Places
-  - Hunter
+  - Lugares
+  - Hospital
+  - Salud
 ---
 ## Reseña.
 

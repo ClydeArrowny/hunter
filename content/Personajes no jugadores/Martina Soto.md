@@ -2,7 +2,8 @@
 tags:
   - NPC
   - Humano
-  - Farmacéutico
+  - Medicina
+  - Tráfico
 aliases:
   - Serenidad
 ---

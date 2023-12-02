@@ -2,6 +2,7 @@
 tags:
   - NPC
   - Humano
+  - Medicina
 aliases:
   - Matusalén
 ---

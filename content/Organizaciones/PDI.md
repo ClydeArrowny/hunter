@@ -1,7 +1,8 @@
 ---
 tags:
-  - Organization
-  - Hunter
+  - Organización
+  - Policia
+  - Seguridad
 aliases:
   - Los tiras
   - Tiras

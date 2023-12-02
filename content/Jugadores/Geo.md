@@ -1,6 +1,5 @@
 ---
 tags:
-  - Player
   - GM
 ---
 [[GM]].

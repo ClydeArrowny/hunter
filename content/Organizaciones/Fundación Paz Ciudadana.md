@@ -1,7 +1,7 @@
 ---
 tags:
-  - Organization
-  - Hunter
+  - Organización
+  - Seguridad
 aliases:
   - Pacos de goma
 ---

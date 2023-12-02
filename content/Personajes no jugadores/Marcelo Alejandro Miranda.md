@@ -4,6 +4,7 @@ aliases:
   - Dr. Miranda
 tags:
   - NPC
-  - Hunter
+  - Humano
+  - Medicina
 ---
 Director [[Hospital las Higueras de Talcahuano]]. Actual mentor de personaje.

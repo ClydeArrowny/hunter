@@ -2,11 +2,11 @@
 
 | Jugador                         | Personaje                         |
 |---------------------------------|-----------------------------------|
-| [[Geo|Geo']]                            | [[GM]]                                |
+| [[Geo]]                            | [[GM]]                                |
 | [[Clyde]]                           | [[Esteban Ignacio Gallardo Ríos]]     |
 | [[Connor]]                          | [[El Connor]]                         |
-| [[Cooler|Cooler]]                          | [[Leonidas]]                          |
-| [[Pliskin]]                           | [[Felix]]                             |
+| [[Cooler]]                          | [[Leonidas]]                          |
+| [[Pliskin]]                         | [[Felix]]                             |
 | [[Mane]]                            | [[Merlina]]                           |
 | [[Persona cuyo nombre no recuerdo]] | [[Personaje cuyo nombre no recuerdo]] |
 # Historias
@@ -17,21 +17,21 @@
 
 #### Participantes.
 
-[[GM|Dios]]
+[[GM|Dios]].
 
-[[El Connor]]
-[[Esteban Ignacio Gallardo Ríos]]
-[[Felix]]
-[[Leonidas]]
-[[Merlina]]
+[[El Connor]].
+[[Esteban Ignacio Gallardo Ríos]].
+[[Felix]].
+[[Leonidas]].
+[[Merlina]].
 ### [[Sesión 2]].
 
 #### Participantes.
 
-[[GM|Dios]]
+[[GM|Dios]].
 
-[[El Connor]]
-[[Esteban Ignacio Gallardo Ríos]]
-[[Felix]]
-[[Leonidas]]
-[[Merlina]]
+[[El Connor]].
+[[Esteban Ignacio Gallardo Ríos]].
+[[Felix]].
+[[Leonidas]].
+[[Merlina]].

@@ -1,7 +1,8 @@
 ---
 tags:
-  - Hunter
   - NPC
+  - Humano
+  - Seguridad
 aliases:
   - Ricardo
 ---
