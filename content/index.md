@@ -17,10 +17,13 @@ Como ultima nota, la numeración de sesiones corresponde a la primera interacci�
 ## Historia 1
 
 [[Sesión 0]]. Sugerido comenzar por aquí, esta la información básica de origen de personajes.
+
 [[Sesión 1]]. 
+
 [[Sesión 2]].
 
 # Otros vínculos.
 
 [[Mapa]] - El mapa se encuentra en construcción.
+
 [[Listado Jugadores]] - Breve resumen de participantes.
