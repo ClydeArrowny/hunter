@@ -1,8 +1,9 @@
 ---
 tags:
-  - Hunter
   - PC
-  - Defender
+  - Humano
+  - Hunter
+  - Defensor
 ---
 Al parecer, [[Carabinero]] y [[Defensor]].
 

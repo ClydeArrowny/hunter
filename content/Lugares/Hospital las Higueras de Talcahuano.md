@@ -7,14 +7,17 @@ tags:
   - Places
   - Hunter
 ---
-## Reseña
+## Reseña.
 
 Lugar de trabajo, como auxiliar de aseo. Recientemente promovido a jefe de camillas por el [[Marcelo Alejandro Miranda|Dr. Miranda]].
-## Datos
+## Datos.
 
 Teléfono reserva de horas: (41) 272 5163
+
 Teléfono mesa central: (41) 268 7000
+
 Teléfono Secret. OIRS: (41) 268 8516
+
 Dirección: Alto Horno 777, Talcahuano.
 ## Lugares de interés.
 
@@ -45,4 +48,4 @@ Subterráneo.
 
 [[Nicolás Cifuentes]].
 
-[[Deciderio Rojas]].
+[[Desiderio Rojas]].

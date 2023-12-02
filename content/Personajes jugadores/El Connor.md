@@ -1,8 +1,8 @@
 ---
-aliases: []
 tags:
-  - Hunter
   - PC
+  - Humano
+  - Hunter
 ---
 Actualmente en el [[Hospital las Higueras de Talcahuano|Hospital de Talcahuano]].
 

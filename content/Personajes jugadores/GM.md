@@ -1,6 +1,6 @@
 ---
 tags:
-  - Hunter
+  - GM
 aliases:
   - God
   - Dios

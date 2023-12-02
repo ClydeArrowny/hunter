@@ -21,13 +21,14 @@ Estado civil: Desconocido:
 - Licencia: Desconocida.
 - Lugar de trabajo: Caseta en plaza.
 - Cargo: Guardia.
-- Teléfono: Desconocido.
-- Dirección: 
+- Teléfono: +56 41 xxx 0949.
+- Dirección: Canelo 540-548, Talcahuano.
+
 ## Contacto
 
 Teléfono móvil: +569 xxxx 1397
 Teléfono fijo: Desconocido
-Dirección: Sargento Aldea 196, Talcahuano.
+Dirección: Sargento Aldea 196 N° 402, Talcahuano.
 
 # Información adicional.
 ## Percepción.

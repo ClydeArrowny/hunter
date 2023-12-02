@@ -1,9 +1,9 @@
-[[Matías Maximiliano Moreno Guzmán|Geo']]
+[[Geo]]
 
-[[Mauricio Frigerio|Cooler]]
+[[Cooler]]
 
 [[Connor]]
 
 [[Mane]]
 
-[[Jaime]]
+[[Pliskin]]

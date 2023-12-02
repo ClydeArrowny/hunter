@@ -2,7 +2,7 @@
 
 ## Escena 1.
 
-Cerca de finalizar el turno en [[Hospital las Higueras de Talcahuano|las Higueras]], [[Deciderio Rojas]] se acerca para un break, con un sandwich y bebida, cortesía de la jefa [[Sofía Benavente]],  conversación que es prontamente interrumpida por [[Nicolás Cifuentes]] quien me pide ayuda con un paciente.
+Cerca de finalizar el turno en [[Hospital las Higueras de Talcahuano|las Higueras]], [[Desiderio Rojas]] se acerca para un break, con un sandwich y bebida, cortesía de la jefa [[Sofía Benavente]],  conversación que es prontamente interrumpida por [[Nicolás Cifuentes]] quien me pide ayuda con un paciente.
 
 En morgue se encuentra el cuerpo de [[El Connor]], al borde de la muerte, con multiples marcas de pinchazos. Dado que el ascensor se encuentra en mantención, y rumores de extrañas [[Cabezas con patas]] por parte del personal, la camilla con el paciente es subida por el montacargas.
 Es llevado a la habitación 406, dado que es una habitación desocupada para este particular caso.

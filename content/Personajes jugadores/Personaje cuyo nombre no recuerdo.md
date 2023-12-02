@@ -1,0 +1,6 @@
+---
+tags:
+  - PC
+  - Humano
+  - Hunter
+---

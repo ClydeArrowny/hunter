@@ -4,7 +4,7 @@ Ambulancia, transportando a [[Felix]].
 
 Habitación 402, solicito a paramédicos qué revisen documentation, mientras la mission de extraer al [[El Connor]] esta en proceso por manos de [[Leonidas]].
 
-[[Deciderio Rojas]] me contacta en mi oficina, al parecer con una necesidad de informarme algo, pero no logra sacárselo, por lo tanto lo calmo, ofreciendo la instancia de que me lo comunique en otro momento, mediante correo o incluso una carta en mi escritorio.
+[[Desiderio Rojas]] me contacta en mi oficina, al parecer con una necesidad de informarme algo, pero no logra sacárselo, por lo tanto lo calmo, ofreciendo la instancia de que me lo comunique en otro momento, mediante correo o incluso una carta en mi escritorio.
 
 Me entero además de que el paciente en la habitación 406 ha sido secuestrado, lo que me indica que la misión de infiltrarse sigilosamente ha fracasado.
 
@@ -25,7 +25,7 @@ Teniendo esta información a mano, contacto con [[Leonidas]],  solo avisando "En
 
 ## Escena 3
 
-Mientras espero, intento nuevamente hacer aquello, solo para notar que un par de niños me observan, preguntando como lo hice. Contactan a [[Leonidas]], a quien para que me reconozca le menciono la palabra clave "Táser". Me informa su dirección, que convenientemente está a 5 minutos caminando.
+Mientras espero, intento nuevamente hacer aquello, solo para notar que un par de niños me observan, preguntando como lo hice. Contactan a [[Leonidas]], a quien para que me reconozca le menciono la palabra clave "Táser". Me informa su dirección en Sargento Aldea 196 N° 402, Talcahuano, que convenientemente está a 5 minutos caminando.
 
 Niños mencionan a juguetero. [[Leonidas]] me entrega dirección de su domicilio. Al entrar noto que tiene una herida en su hombro derecho. Entendiendo que fue sorprendido durante el acto de secuestro, le entrego listado de medicamentos que necesitaré, además de farmacia [[Farmacia Barriosalud|Barriosalud]] y contacto [[Martina Soto]], donde puede adquirir medicamentos sin receta médica.
 

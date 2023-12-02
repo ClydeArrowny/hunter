@@ -2,11 +2,11 @@
 
 | Jugador                         | Personaje                         |
 |---------------------------------|-----------------------------------|
-| [[Matías Maximiliano Moreno Guzmán\|Geo']]                            | [[GM]]                                |
+| [[Geo|Geo']]                            | [[GM]]                                |
 | [[Clyde]]                           | [[Esteban Ignacio Gallardo Ríos]]     |
 | [[Connor]]                          | [[El Connor]]                         |
-| [[Mauricio Frigerio\|Cooler]]                          | [[Leonidas]]                          |
-| [[Jaime]]                           | [[Felix]]                             |
+| [[Cooler|Cooler]]                          | [[Leonidas]]                          |
+| [[Pliskin]]                           | [[Felix]]                             |
 | [[Mane]]                            | [[Merlina]]                           |
 | [[Persona cuyo nombre no recuerdo]] | [[Personaje cuyo nombre no recuerdo]] |
 # Historias

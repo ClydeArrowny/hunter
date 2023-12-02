@@ -1,10 +1,11 @@
 ---
+tags:
+  - PC
+  - Humano
+  - Hunter
+  - Visión
 aliases:
   - Celedos
-tags:
-  - NPC
-  - Hunter
-  - Vision
 ---
 Actual personaje con el que juego. Pertenece al credo de la [[Visión]].
 

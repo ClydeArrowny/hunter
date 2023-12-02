@@ -1,6 +1,7 @@
 ---
 tags:
+  - PC
+  - Humano
   - Hunter
-  - Player
 ---
 PJ de [[Mane]].
