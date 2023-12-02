@@ -1,5 +1,5 @@
 ---
-title: Hunter
+title: "Notas para Hunter: the Reckoning."
 ---
 # Comienzo.
 
