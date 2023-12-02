@@ -2,5 +2,7 @@
 tags:
   - Hunter
   - NPC
+aliases:
+  - Ricardo
 ---
-En turno como [[Seguridad ciudadana]], compañero de [[Leonidas]].
+En turno como [[Fundación Paz Ciudadana]], compañero de [[Leonidas]].

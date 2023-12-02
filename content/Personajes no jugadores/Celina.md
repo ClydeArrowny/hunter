@@ -1,6 +1,6 @@
 ---
 tags:
-  - Hunter
   - NPC
+  - Humano
 ---
 Posible pareja/divorciada de [[Felix]].

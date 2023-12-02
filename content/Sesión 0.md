@@ -2,6 +2,7 @@
 
 | Jugador                         | Personaje                         |
 |---------------------------------|-----------------------------------|
+| [[Matías Maximiliano Moreno Guzmán\|Geo']]                            | [[GM]]                                |
 | [[Clyde]]                           | [[Esteban Ignacio Gallardo Ríos]]     |
 | [[Connor]]                          | [[El Connor]]                         |
 | [[Mauricio Frigerio\|Cooler]]                          | [[Leonidas]]                          |
@@ -16,7 +17,21 @@
 
 #### Participantes.
 
+[[GM|Dios]]
+
+[[El Connor]]
+[[Esteban Ignacio Gallardo Ríos]]
+[[Felix]]
+[[Leonidas]]
+[[Merlina]]
 ### [[Sesión 2]].
 
 #### Participantes.
 
+[[GM|Dios]]
+
+[[El Connor]]
+[[Esteban Ignacio Gallardo Ríos]]
+[[Felix]]
+[[Leonidas]]
+[[Merlina]]

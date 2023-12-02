@@ -2,9 +2,9 @@
 
 Ambulancia, transportando a [[Felix]].
 
-Habitación 402, solicito a paramedicos qué revisen documentacion, mientras la mision de extraer al [[El Connor]] esta en proceso por manos de [[Leonidas]].
+Habitación 402, solicito a paramédicos qué revisen documentation, mientras la mission de extraer al [[El Connor]] esta en proceso por manos de [[Leonidas]].
 
-[[Deciderio Rojas]] me contacta en mi oficina, al parecer con una necesidad de informarme algo, pero no logra sacarselo, por lo tanto lo calmo, ofreciendo la instancia de que me lo comunique en otro momento, mediante correo o incluso una carta en mi escritorio.
+[[Deciderio Rojas]] me contacta en mi oficina, al parecer con una necesidad de informarme algo, pero no logra sacárselo, por lo tanto lo calmo, ofreciendo la instancia de que me lo comunique en otro momento, mediante correo o incluso una carta en mi escritorio.
 
 Me entero además de que el paciente en la habitación 406 ha sido secuestrado, lo que me indica que la misión de infiltrarse sigilosamente ha fracasado.
 
@@ -16,9 +16,9 @@ Me dirijo a la caseta de guardias en la plaza, fijando que se encuentra su reemp
 
 | Nombre    | Turnos semanales | Número de Teléfono |
 |-----------|------------------|--------------------|
-| Leonidas  | N-L-D-D-N-L-D    | +569 xxxx 1397     |
+| [[Leonidas\|Leonidas]]  | N-L-D-D-N-L-D    | +569 xxxx 1397     |
 | Valentina | D-N-L-D-D-N-L    | +569 xxxx 6619     |
-| Ricardo   | D-D-N-L-D-D-N    | +569 xxxx 5614     |
+| [[Ricardo Sanhueza\|Ricardo]]   | D-D-N-L-D-D-N    | +569 xxxx 5614     |
 | Isabella  | L-D-D-N-L-D-D    | +569 xxxx 1811     |
 
 Teniendo esta información a mano, contacto con [[Leonidas]],  solo avisando "En una hora estaré fuera de Supermercados la Fama, donde esperaré 30 minutos." Supermercado ubicado a dos cuadras de la plaza de armas, en calle Valdivia 220.
@@ -27,7 +27,7 @@ Teniendo esta información a mano, contacto con [[Leonidas]],  solo avisando "En
 
 Mientras espero, intento nuevamente hacer aquello, solo para notar que un par de niños me observan, preguntando como lo hice. Contactan a [[Leonidas]], a quien para que me reconozca le menciono la palabra clave "Táser". Me informa su dirección, que convenientemente está a 5 minutos caminando.
 
-Niños mencionan a juguetero. [[Leonidas]] me entrega dirección de su domicilio. Al entrar noto que tiene una herida en su hombro derecho. Entendiendo que fue sorprendido durante el acto de secuestro, le entrego listado de medicamentos que necesitaré, además de farmacia [[Farmacia Barriosalud|Barriosalud]] y contacto [[Farmaceútico]], donde puede adquirir medicamentos sin receta médica.
+Niños mencionan a juguetero. [[Leonidas]] me entrega dirección de su domicilio. Al entrar noto que tiene una herida en su hombro derecho. Entendiendo que fue sorprendido durante el acto de secuestro, le entrego listado de medicamentos que necesitaré, además de farmacia [[Farmacia Barriosalud|Barriosalud]] y contacto [[Martina Soto]], donde puede adquirir medicamentos sin receta médica.
 
 | Paciente      | Cuadro                                                             |
 |---------------|--------------------------------------------------------------------|
@@ -60,24 +60,18 @@ Recibe tratamiento improvisado con una botella de alcohol mientras limpio y cier
 6. **Seguimiento:**
 	- Programar una cita de seguimiento para una evaluación más detallada y ajuste del plan de tratamiento según sea necesario.
 
-[[El Connor]] no requiere mayores cuidados, gran parte del trabajo fue realizado en hospital. Sin embargo, debe mantener reposo mientras sigue en observación.
+### [[El Connor]]:
 
-
-### Connor:
+No requiere mayores cuidados, gran parte del trabajo fue realizado en hospital. Sin embargo, debe mantener reposo mientras sigue en observación.
 
 1. **Observación:**
-	
-	 - Observar cualquier signo de traumatismo craneal, como dolores de cabeza, mareos o cambios en la conciencia.
+	- Observar cualquier signo de traumatismo craneal, como dolores de cabeza, mareos o cambios en la conciencia.
 2. **Descanso:**
-    
 	- Recomendar reposo completo por un período especificado para permitir la recuperación del cuerpo.
 3. **Control del Dolor:**
-    
-    - Tramal (Tramadol) según sea necesario para cualquier dolor residual de las lesiones por esquirlas.
-        - Dosis: 50 mg por toma, según sea necesario.
+	- Tramal (Tramadol) según sea necesario para cualquier dolor residual de las lesiones por esquirlas.
+	 - Dosis: 50 mg por toma, según sea necesario.
 4. **Hidratación:**
-    
-    - Asegurar una hidratación adecuada para respaldar la recuperación general.
+	- Asegurar una hidratación adecuada para respaldar la recuperación general.
 5. **Seguimiento:**
-    
-    - Programar una cita de seguimiento para un examen neurológico exhaustivo y evaluación del bienestar general.
+	- Programar una cita de seguimiento para un examen neurológico exhaustivo y evaluación del bienestar general. 

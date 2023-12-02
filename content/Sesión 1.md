@@ -39,7 +39,7 @@ Terminando de envíar el informe, termino mi turno por el día.
 Llendo a la plaza de siempre (Canelo 540-548, Talcahuano), utilizo mi _talento_ una vez más mientras fumo un cigarillo, dibujando aquellas formas en el suelo con el pie mientras doy un breve paseo, solo que esta ves tiene éxito.
 
 Cuatro figuras se manifiestan:
-[[Leonidas]], [[Seguridad ciudadana]] del parque.
+[[Leonidas]], [[Fundación Paz Ciudadana]] del parque.
 [[Niño 1]], aparentemente conocido de [[Leonidas]].
 [[Niña 1]], aparentemente conocida de [[Leonidas]].
 [[Felix]], al parecer un oficial. Porta un curioso símbolo de [[Defensor]].
@@ -53,3 +53,7 @@ Esteban -->|Ni idea.| Niño1
 Esteban -->|Ni idea.| Niña1
 Esteban -->|Similar? Falta investigar| Felix
 ```
+
+## Experiencia.
+
+3 xp.

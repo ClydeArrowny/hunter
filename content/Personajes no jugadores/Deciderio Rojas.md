@@ -1,7 +1,7 @@
 ---
 tags:
   - NPC
-  - Hunter
+  - Humano
 aliases:
   - Matusalén
 ---

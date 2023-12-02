@@ -1,8 +1,6 @@
 ---
-aliases:
-  - El hdp
 tags:
   - NPC
-  - Hunter
+  - Humano
 ---
-Antiguo compañero universitario de [[Esteban Ignacio Gallardo Ríos]], quien plagió mi tésis y actualmente goza de una vida llena de lujos.
+Antiguo compañero universitario de [[Esteban Ignacio Gallardo Ríos]], quien plagió mi tesis y actualmente goza de una vida llena de lujos.
