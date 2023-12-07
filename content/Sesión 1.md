@@ -1,3 +1,7 @@
+---
+tags:
+  - Sesión
+---
 # Sesión 1.
 
 ## Escena 1.
@@ -42,9 +46,9 @@ Cuatro figuras se manifiestan:
 [[Leonidas]], [[Fundación Paz Ciudadana]] del parque.
 [[Niño 1]], aparentemente conocido de [[Leonidas]].
 [[Niña 1]], aparentemente conocida de [[Leonidas]].
-[[Felix]], al parecer un oficial. Porta un curioso símbolo de [[Defensor]].
+[[Felix Contreras]], al parecer un oficial. Porta un curioso símbolo de [[Defensor]].
 
-A falta de tiempo, se realiza el plan de fingir un ataque por parte de [[Felix]], para lo que manda a los niños a comprar pastillas efervescentes en la farmacia. Considerando que el plan no engañaría a paramédicos preparados, decido darle realismo, usando algo de electricidad propinada por un tazer de [[Leonidas]].
+A falta de tiempo, se realiza el plan de fingir un ataque por parte de [[Felix Contreras]], para lo que manda a los niños a comprar pastillas efervescentes en la farmacia. Considerando que el plan no engañaría a paramédicos preparados, decido darle realismo, usando algo de electricidad propinada por un tazer de [[Leonidas]].
 
 ```mermaid
 graph TD

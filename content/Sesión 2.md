@@ -1,6 +1,11 @@
-## Escena 1
+---
+tags:
+  - Sesión
+---
+# Sesión 2.
+## Escena 1.
 
-Ambulancia, transportando a [[Felix]].
+Ambulancia, transportando a [[Felix Contreras]].
 
 Habitación 402, solicito a paramédicos qué revisen documentation, mientras la mission de extraer al [[El Connor]] esta en proceso por manos de [[Leonidas]].
 
@@ -8,9 +13,9 @@ Habitación 402, solicito a paramédicos qué revisen documentation, mientras la
 
 Me entero además de que el paciente en la habitación 406 ha sido secuestrado, lo que me indica que la misión de infiltrarse sigilosamente ha fracasado.
 
-Buscando a [[Felix]], encuentro datos de contacto en la base de datos de hospital. Número fijo y contacto. En el primero no contesta nadie, al segundo contesta una mujer, [[Celina]] quien parece interesada en saber la actual ubicación de [[Felix]]. Tras agradecer, corta. Sin más pistas que seguir por mi cuenta, decido buscar a [[Leonidas]].
+Buscando a [[Felix Contreras]], encuentro datos de contacto en la base de datos de hospital. Número fijo y contacto. En el primero no contesta nadie, al segundo contesta una mujer, [[Celina]] quien parece interesada en saber la actual ubicación de [[Felix Contreras]]. Tras agradecer, corta. Sin más pistas que seguir por mi cuenta, decido buscar a [[Leonidas]].
 
-## Escena 2
+## Escena 2.
 
 Me dirijo a la caseta de guardias en la plaza, fijando que se encuentra su reemplazo [[Ricardo Sanhueza]], El cual tras distraerlo unos momentos alcanzo a percibir el listado de turnos y números de cada guardia asignado a la caseta.
 
@@ -23,7 +28,7 @@ Me dirijo a la caseta de guardias en la plaza, fijando que se encuentra su reemp
 
 Teniendo esta información a mano, contacto con [[Leonidas]],  solo avisando "En una hora estaré fuera de Supermercados la Fama, donde esperaré 30 minutos." Supermercado ubicado a dos cuadras de la plaza de armas, en calle Valdivia 220.
 
-## Escena 3
+## Escena 3.
 
 Mientras espero, intento nuevamente hacer aquello, solo para notar que un par de niños me observan, preguntando como lo hice. Contactan a [[Leonidas]], a quien para que me reconozca le menciono la palabra clave "Táser". Me informa su dirección en Sargento Aldea 196 N° 402, Talcahuano, que convenientemente está a 5 minutos caminando.
 
@@ -60,9 +65,11 @@ Recibe tratamiento improvisado con una botella de alcohol mientras limpio y cier
 6. **Seguimiento:**
 	- Programar una cita de seguimiento para una evaluación más detallada y ajuste del plan de tratamiento según sea necesario.
 
-### [[El Connor]]:
+#### [[El Connor]]:
 
 No requiere mayores cuidados, gran parte del trabajo fue realizado en hospital. Sin embargo, debe mantener reposo mientras sigue en observación.
+
+##### Seguimiento.
 
 1. **Observación:**
 	- Observar cualquier signo de traumatismo craneal, como dolores de cabeza, mareos o cambios en la conciencia.

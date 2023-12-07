@@ -1,12 +1,11 @@
 ---
-aliases:
-  - Hospital de Talcahuano
-  - Hospital las Higueras
-  - las Higueras
 tags:
   - Lugares
   - Hospital
   - Salud
+aliases:
+  - Hospital las Higueras
+  - las Higueras
 ---
 ## Reseña.
 

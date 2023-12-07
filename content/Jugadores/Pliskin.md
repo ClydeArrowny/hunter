@@ -2,4 +2,4 @@
 tags:
   - Player
 ---
-Jugador que controla a [[Felix]].
+Jugador que controla a [[Felix Contreras]].

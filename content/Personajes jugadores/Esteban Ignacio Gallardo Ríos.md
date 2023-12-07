@@ -2,8 +2,9 @@
 tags:
   - PC
   - Humano
+  - Medicina
   - Hunter
-  - Visión
+  - Vision
 aliases:
   - Celedos
 ---

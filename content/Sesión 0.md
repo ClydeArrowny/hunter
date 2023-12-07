@@ -1,3 +1,7 @@
+---
+tags:
+  - Sesión
+---
 # Creación de personajes.
 
 | Jugador                         | Personaje                         |
@@ -6,7 +10,7 @@
 | [[Clyde]]                           | [[Esteban Ignacio Gallardo Ríos]]     |
 | [[Connor]]                          | [[El Connor]]                         |
 | [[Cooler]]                          | [[Leonidas]]                          |
-| [[Pliskin]]                         | [[Felix]]                             |
+| [[Pliskin]]                         | [[Felix Contreras]]                             |
 | [[Mane]]                            | [[Merlina]]                           |
 | [[Persona cuyo nombre no recuerdo]] | [[Personaje cuyo nombre no recuerdo]] |
 # Historias
@@ -21,7 +25,7 @@
 
 [[El Connor]].
 [[Esteban Ignacio Gallardo Ríos]].
-[[Felix]].
+[[Felix Contreras]].
 [[Leonidas]].
 [[Merlina]].
 ### [[Sesión 2]].
@@ -32,6 +36,6 @@
 
 [[El Connor]].
 [[Esteban Ignacio Gallardo Ríos]].
-[[Felix]].
+[[Felix Contreras]].
 [[Leonidas]].
 [[Merlina]].

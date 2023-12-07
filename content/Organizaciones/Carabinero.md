@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Pacos
-  - Pacos ql
 tags:
   - Organización
   - Policia

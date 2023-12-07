@@ -1,5 +1,5 @@
 ---
 tags:
-  - Monster
+  - Criatura
 ---
-Solo rumores que circulan, no deben prestarsele atención.
+Solo rumores que circulan, no deben prestársele atención.
