@@ -3,15 +3,11 @@ title: "Notas para Hunter: the Reckoning."
 ---
 # Comienzo.
 
-Bienvenido a las memorias de [[Esteban Ignacio Gallardo Ríos]], AKA [[Esteban Ignacio Gallardo Ríos|Celedos]].
+Bienvenido al archivo de [[Esteban Ignacio Gallardo Ríos]], en el mundo de Hunter: the Reckoning, un juego de rol de mesa.
 
-Todo el material registrado corresponde a las experiencias vividas durante el transcurso del juego. Todo conocimiento mostrado asimismo fue obtenido durante el juego.
+Este registro meticuloso documenta exhaustivamente cada suceso en el juego, presentado desde la perspectiva única de Esteban. Con pocas excepciones en metadatos, cada acontecimiento queda plasmado en la experiencia personal de este cazador.
 
-¿Existe algún dato ocurrido que no se encuentra registrado?
-
-Simple: No estuve presente. O no se me ha informado. ~~O simplemente olvide registrarlo~~.
-
-Como ultima nota, la numeración de sesiones corresponde a la primera interacción de [[Esteban Ignacio Gallardo Ríos|Celedos]] con el mundo, y podría no coincidir con el número de sesión de otros jugadores.
+Este archivo sirve como un detallado catálogo de sesiones, eventos y encuentros dentro del universo de Hunter: the Reckoning. Cada entrada refleja la realidad tal como la vivió [[Esteban Ignacio Gallardo Ríos|Esteban]], proporcionando una visión sin adornos de las experiencias en este juego de rol. Explora a fondo este archivo y sumérgete en las crónicas de Hunter: the Reckoning.
 # Sesiones.
 
 ## Historia 1

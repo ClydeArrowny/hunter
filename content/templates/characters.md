@@ -1,22 +1,15 @@
----
-tags:
-  - PC
-  - Humano
-  - Hunter
----
 # Información general.
 
 ## Antecedentes:
 
 - Insert character background information.
-
 ## Datos principales:
 
-- Nombre completo: El Connor.
+- Nombre completo: Desconocido.
 - Rut: Desconocido.
 - Edad: Desconocida.
-- Raza: 
-- Género: Masculino.
+- Raza: Desconocida.
+- Género: Desconocido.
 - Estado civil: Desconocido.
 
 ## Datos laborales
@@ -30,11 +23,10 @@ tags:
 
 ## Contacto
 
-- Teléfono móvil: Desconocido.
-- Teléfono fijo: Desconocido.
-- Dirección: Desconocido.
-- email: Desconocido.
-- Hunter-net tag: Desconocido.
+Teléfono móvil: Desconocido.
+Teléfono fijo: Desconocido.
+Dirección: Desconocido.
+Hunter-net tag: Desconocido.
 
 # Información adicional.
 ## Percepción.
@@ -42,10 +34,7 @@ tags:
 - Sin mayores anotaciones.
 ## Acontecimientos.
 
-- Aparición en [[Hospital las Higueras de Talcahuano|Hospital las Higueras]] con heridas de esquirlas.
-- Secuestrado por [[Leonidas]].
+- Sin mayores anotaciones.
 ## Red de contactos.
 
-- [[Leonidas]].
-
-Actualmente en dpto leonidas.
+- Desconocido.
