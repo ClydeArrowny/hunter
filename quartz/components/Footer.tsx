@@ -3,7 +3,7 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types";
 import style from "./styles/footer.scss";
 import { version } from "../../package.json";
 import * as Component from "./quartz/components";
-import Graph, { GraphOptions } from "./path/to/GraphComponent"; // Adjust the import path accordingly
+import Graph, { GraphOptions } from "./quartz/components";
 
 interface Options {
   links: Record<string, string>;
@@ -14,8 +14,7 @@ export default ((opts?: Options & GraphOptions) => {
     const year = new Date().getFullYear();
     const links = opts?.links ?? [];
 
-    // Include Component.Graph() in the footer
-    const graphComponent = Graph(opts); // Pass the options to the Graph component
+    const graphComponent = Graph(opts);
 
     return (
       <footer class={`${displayClass ?? ""}`}>
@@ -23,7 +22,7 @@ export default ((opts?: Options & GraphOptions) => {
         <p>
           Clyde Arrowny, © {year}
         </p>
-        {graphComponent} {/* Include the graph component here */}
+        {graphComponent} {Component.Graph()}
       </footer>
     );
   }
