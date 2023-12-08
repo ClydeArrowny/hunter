@@ -13,6 +13,7 @@ export const sharedPageComponents: SharedLayout = {
 		},
 	}),
 	Component.Graph(),
+	],
 }
 
 // components for pages that display a single page (e.g. a single note)
