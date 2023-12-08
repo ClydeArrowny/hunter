@@ -5,6 +5,7 @@ tags:
   - Salud
 aliases:
   - Barriosalud
+location: [-36.71346659781929, -73.11338111048767]
 ---
 ## Reseña.
 

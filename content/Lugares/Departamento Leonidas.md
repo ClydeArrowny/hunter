@@ -2,6 +2,9 @@
 tags:
   - Lugares
   - Domicilio
+location: [-36.71459250079349,-73.11506388449651]
+
+strength: 4
 ---
 # Información general.
 

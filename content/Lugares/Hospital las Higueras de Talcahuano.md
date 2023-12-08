@@ -6,6 +6,7 @@ tags:
 aliases:
   - Hospital las Higueras
   - las Higueras
+location: [-36.7404661133912236,-73.1089067891029]
 ---
 # Información general.
 
