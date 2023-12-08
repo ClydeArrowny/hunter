@@ -10,8 +10,8 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
-  }),
-	Component.Graph(),
+  }Component.Graph(),
+  ),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -30,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.TableOfContents(),
     Component.Backlinks(),
   ],
 }
