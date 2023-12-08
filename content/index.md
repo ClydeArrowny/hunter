@@ -1,5 +1,7 @@
 ---
 title: "Notas para Hunter: the Reckoning."
+tags:
+  - homepage
 ---
 # Comienzo.
 

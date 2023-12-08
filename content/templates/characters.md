@@ -2,39 +2,51 @@
 
 ## Antecedentes:
 
-- Insert character background information.
+- Breve historia o eventos clave relacionados con el personaje.
 ## Datos principales:
 
-- Nombre completo: Desconocido.
-- Rut: Desconocido.
-- Edad: Desconocida.
-- Raza: Desconocida.
-- Género: Desconocido.
-- Estado civil: Desconocido.
+- **Nombre completo:** <% tp.file.title %>.
+- **Rut:** Desconocido.
+- **Edad:** Desconocida.
+- **Raza:** Desconocida.
+- **Género:** Desconocido.
+- **Estado civil:** Desconocido.
 
-## Datos laborales
+## Datos laborales:
 
-- Ocupación: Desconocida.
-- Licencia: Desconocida.
-- Lugar de trabajo: Desconocido.
-- Cargo: Desconocido.
-- Teléfono: Desconocido.
-- Dirección: Desconocida.
+- **Ocupación:** Desconocida.
+- **Lugar de trabajo:** Desconocido.
+- **Cargo:** Desconocido.
+- **Teléfono:** Desconocido.
+- **Dirección:** Desconocida.
 
-## Contacto
+## Contacto:
 
-Teléfono móvil: Desconocido.
-Teléfono fijo: Desconocido.
-Dirección: Desconocido.
-Hunter-net tag: Desconocido.
+- **Teléfono móvil:** Desconocido.
+- **Teléfono fijo:** Desconocido.
+- **Domicilio:** Desconocido.
+- **Hunter-net tag:** Desconocido.
 
 # Información adicional.
-## Percepción.
+
+## Percepción:
+
+- Anotaciones sobre como se percibe al personaje.
+## Eventos relevates:
 
 - Sin mayores anotaciones.
-## Acontecimientos.
+## Red de contactos:
 
-- Sin mayores anotaciones.
-## Red de contactos.
+| Contacto   | Relación  |
+|------------|-----------|
+| Contacto 1 | Detalle   |
 
-- Desconocido.
+## Relaciones con organizaciones:
+
+| Organización   | Relación  |
+|----------------|-----------|
+| Organización 1 | Detalle   |
+
+## Notas especiales:
+
+- Cualquier detalle adicional que no encaje en las categorías anteriores.

@@ -6,11 +6,11 @@ tags:
 
 | Jugador                         | Personaje                         |
 |---------------------------------|-----------------------------------|
-| [[Geo]]                            | [[GM]]                                |
+| [[Geo']]                            | [[GM]]                                |
 | [[Clyde]]                           | [[Esteban Ignacio Gallardo Ríos]]     |
 | [[Connor]]                          | [[El Connor]]                         |
 | [[Cooler]]                          | [[Leonidas]]                          |
-| [[Pliskin]]                         | [[Felix Contreras]]                             |
+| [[Pliskin]]                         | [[Felix Contreras]]                   |
 | [[Mane]]                            | [[Merlina]]                           |
 | [[Persona cuyo nombre no recuerdo]] | [[Personaje cuyo nombre no recuerdo]] |
 # Historias
@@ -27,7 +27,7 @@ tags:
 [[Esteban Ignacio Gallardo Ríos]].
 [[Felix Contreras]].
 [[Leonidas]].
-[[Merlina]].
+
 ### [[Sesión 2]].
 
 #### Participantes.
@@ -36,6 +36,5 @@ tags:
 
 [[El Connor]].
 [[Esteban Ignacio Gallardo Ríos]].
-[[Felix Contreras]].
 [[Leonidas]].
 [[Merlina]].

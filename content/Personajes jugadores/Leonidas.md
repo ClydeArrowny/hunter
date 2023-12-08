@@ -8,46 +8,58 @@ tags:
 
 ## Antecedentes:
 
-- Insert character background information.
-
+- Breve historia o eventos clave relacionados con el personaje.
 ## Datos principales:
 
-- Nombre completo: Leonidas.
-- Rut: Desconocido.
-- Edad: Desconocida.
-- Raza: Desconocida.
-- Género: Masculino.
-- Estado civil: Desconocido.
+- **Nombre completo:** Leonidas.
+- **Rut:** Desconocido.
+- **Edad:** Desconocida.
+- **Raza:** Desconocida.
+- **Género:** Masculino.
+- **Estado civil:** Desconocido.
+- **Credo:** Desconocido.
 
-## Datos laborales
+## Datos laborales:
 
-- Ocupación: Desconocida.
-- Licencia: Desconocida.
-- Lugar de trabajo: Caseta en plaza.
-- Cargo: Guardia.
-- Teléfono: +56 41 xxx 0949.
-- Dirección: Canelo 540-548, Talcahuano.
+- **Ocupación:** Desconocida.
+- **Licencia:** Desconocida.
+- **Lugar de trabajo:** Caseta en plaza.
+- **Cargo:** Guardia.
+- **Teléfono:** +56 41 xxx 0949.
+- **Dirección:** Canelo 540-548, Talcahuano.
 
-## Contacto
+## Contacto:
 
-- Teléfono móvil: +569 xxxx 1397.
-- Teléfono fijo: Desconocido.
-- Dirección: Sargento Aldea 196 N° 402, Talcahuano.
-- email: Desconocido.
-- Hunter-net tag: Desconocido.
+- **Teléfono móvil:** +569 xxxx 1397.
+- **Teléfono fijo:** Desconocido.
+- **Domicilio:** Sargento Aldea 196 N° 402, Talcahuano.
+- **email:** Desconocido.
+- **Hunter-net tag:** Desconocido.
 
 # Información adicional.
 
-## Percepción.
+## Percepción:
 
-- Sin mayores anotaciones.
-
-## Acontecimientos.
+- Anotaciones sobre como se percibe al personaje.
+## Eventos relevates:
 
 - Herido de bala tras secuestrar a [[El Connor]].
+## Red de contactos:
 
-## Red de contactos.
+| Contacto         | Relación              |
+|------------------|-----------------------|
+| [[El Connor]]        | Posible amistad.      |
+| [[Felix Contreras]]  | Conocidos.            |
+| [[Ricardo Sanhueza]] | Compañero de trabajo. |
+| [[Niño 1]]           | Conocido.             |
+| [[Niña 1]]           | Conocido.             |
 
-- [[Ricardo Sanhueza]].
-- [[Niño 1]].
-- [[Niña 1]].
+## Relaciones con organizaciones:
+
+| Organización   | Relación    |
+|----------------|-------------|
+| [[Fundación Paz Ciudadana\|Paz Ciudadana]]  | Funcionario |
+
+## Notas especiales:
+
+- Cualquier detalle adicional que no encaje en las categorías anteriores.

@@ -16,7 +16,7 @@ Administrada por [[Martina Soto]].
 
 Teléfono: +56 41 xxx 6318
 
-Dirección: Colón 350, Talcahuano
+Dirección: Colón 350, Talcahuano, Región del Bío Bío.
 ## Personal.
 
 [[Martina Soto]]

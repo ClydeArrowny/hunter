@@ -1,28 +1,37 @@
 ---
 tags:
-  - PC
+  - NPC
   - Humano
-  - Hunter
+  - Medicina
 ---
+# Información general.
+
 ## Antecedentes:
 
 - Breve historia o eventos clave relacionados con el personaje.
 ## Datos principales:
 
-- **Nombre completo:** Merlina.
-- **Rut:** Desconocido.
+- **Nombre completo:** Patricia Karin Sánchez Krause.
+- **Rut:** 10.458.112.9.
 - **Edad:** Desconocida.
 - **Raza:** Desconocida.
-- **Género:** Desconocido.
+- **Género:** Femenino.
 - **Estado civil:** Desconocido.
+
+Representante legal
+Nombre: [[Patricia Karin Sánchez Krause]].
+Rut: 10.458.112-9
+Profesión: Médico Cirujano
+Domicilio: Alto Horno 777, Talcahuano, Región del Bío Bío
+Correo Electronico: patricia.sanchez@redsalud.gov.cl
 
 ## Datos laborales:
 
-- **Ocupación:** Desconocida.
-- **Lugar de trabajo:** Desconocido.
-- **Cargo:** Desconocido.
+- **Ocupación:** Médico Cirujano.
+- **Lugar de trabajo:** [[Hospital las Higueras de Talcahuano|Hospital las Higueras]].
+- **Cargo:** Representante Legal.
 - **Teléfono:** Desconocido.
-- **Dirección:** Desconocida.
+- **Dirección:** Alto Horno 777, Talcahuano, Región del Bío Bío.
 
 ## Contacto:
 
@@ -36,7 +45,7 @@ tags:
 ## Percepción:
 
 - Anotaciones sobre como se percibe al personaje.
-## Eventos relevantes:
+## Eventos relevates:
 
 - Sin mayores anotaciones.
 ## Red de contactos:

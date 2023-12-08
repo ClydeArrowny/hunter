@@ -81,4 +81,8 @@ No requiere mayores cuidados, gran parte del trabajo fue realizado en hospital. 
 4. **Hidratación:**
 	- Asegurar una hidratación adecuada para respaldar la recuperación general.
 5. **Seguimiento:**
-	- Programar una cita de seguimiento para un examen neurológico exhaustivo y evaluación del bienestar general. 
+	- Programar una cita de seguimiento para un examen neurológico exhaustivo y evaluación del bienestar general.
+
+# Experiencia.
+
+4 exp.

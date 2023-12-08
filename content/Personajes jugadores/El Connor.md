@@ -8,44 +8,55 @@ tags:
 
 ## Antecedentes:
 
-- Insert character background information.
-
+- Breve historia o eventos clave relacionados con el personaje.
 ## Datos principales:
 
-- Nombre completo: El Connor.
-- Rut: Desconocido.
-- Edad: Desconocida.
-- Raza: 
-- Género: Masculino.
-- Estado civil: Desconocido.
+- **Nombre completo:** El Connor.
+- **Rut:** Desconocido.
+- **Edad:** Desconocida.
+- **Raza:** Desconocida.
+- **Género:** Masculino.
+- **Estado civil:** Desconocido.
+- **Credo:** Desconocido.
 
-## Datos laborales
+## Datos laborales:
 
-- Ocupación: Desconocida.
-- Licencia: Desconocida.
-- Lugar de trabajo: Desconocido.
-- Cargo: Desconocido.
-- Teléfono: Desconocido.
-- Dirección: Desconocida.
+- **Ocupación:** Desconocida.
+- **Licencia:** Desconocida.
+- **Lugar de trabajo:** Desconocido.
+- **Cargo:** Desconocido.
+- **Teléfono:** Desconocido.
+- **Dirección:** Desconocida.
 
-## Contacto
+## Contacto:
 
-- Teléfono móvil: Desconocido.
-- Teléfono fijo: Desconocido.
-- Dirección: Desconocido.
-- email: Desconocido.
-- Hunter-net tag: Desconocido.
+- **Teléfono móvil:** Desconocido.
+- **Teléfono fijo:** Desconocido.
+- **Domicilio:** Desconocido.
+- **email:** Desconocido.
+- **Hunter-net tag:** Desconocido.
 
 # Información adicional.
-## Percepción.
 
-- Sin mayores anotaciones.
-## Acontecimientos.
+## Percepción:
+
+- Anotaciones sobre como se percibe al personaje.
+## Eventos relevantes:
 
 - Aparición en [[Hospital las Higueras de Talcahuano|Hospital las Higueras]] con heridas de esquirlas.
 - Secuestrado por [[Leonidas]].
-## Red de contactos.
+## Red de contactos:
 
-- [[Leonidas]].
+| Contacto   | Relación        |
+|------------|-----------------|
+| [[Leonidas]]   | Posible amistad |
 
-Actualmente en dpto leonidas.
+## Relaciones con organizaciones:
+
+| Organización   | Relación  |
+|----------------|-----------|
+| Organización 1 | Detalle   |
+
+## Notas especiales:
+
+- Cualquier detalle adicional que no encaje en las categorías anteriores.

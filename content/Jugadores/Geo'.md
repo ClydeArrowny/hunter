@@ -1,7 +1,8 @@
 ---
 tags:
   - Player
+  - GM
 ---
 # Personaje.
 
-[[El Connor]].
+[[GM]].

@@ -58,6 +58,6 @@ Esteban -->|Ni idea.| Niña1
 Esteban -->|Similar? Falta investigar| Felix
 ```
 
-## Experiencia.
+# Experiencia.
 
 3 xp.

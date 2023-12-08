@@ -2,4 +2,6 @@
 tags:
   - Player
 ---
-Jugadora que controla a [[Merlina]].
+# Personaje.
+
+- [[Merlina]].

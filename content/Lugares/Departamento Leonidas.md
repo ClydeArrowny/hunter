@@ -1,21 +1,20 @@
+---
+tags:
+  - Lugares
+  - Domicilio
+---
 # Información general.
 
 ## Antecedentes:
 
-- Breve historia o eventos clave relacionados con el lugar.
+- Domicilio actual de [[Leonidas]].
 
 ## Contacto:
 
 - **Teléfono:** Desconocido.
-- **Dirección:** Desconocida.
-- **email:** Desconocido.
-- **Sitio web:** Desconocido.
+- **Dirección:** Sargento Aldea 196 N° 402, Talcahuano, Región del Bío Bío.
 
 # Información interna.
-
-## Lugares de interés:
-
-- Lista de lugares significativos dentro del área.
 
 ## Personal asociado:
 
@@ -30,12 +29,6 @@
 ## Eventos relevantes:
 
 - Acontecimientos clave que ocurrieron en el lugar.
-
-## Relaciones con otros lugares:
-
-| Lugar   | Relación  |
-|---------|-----------|
-| Lugar 1 | Detalle   |
 
 ## Notas especiales:
 

@@ -2,4 +2,6 @@
 tags:
   - Player
 ---
-Jugador que controla a [[Leonidas]].
+# Personaje.
+
+[[Leonidas]].

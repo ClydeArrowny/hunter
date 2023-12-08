@@ -1,5 +1,6 @@
 ---
 tags:
+  - PC
   - GM
 aliases:
   - God
