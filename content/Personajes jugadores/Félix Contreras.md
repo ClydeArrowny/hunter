@@ -12,7 +12,8 @@ tags:
 - Breve historia o eventos clave relacionados con el personaje.
 ## Datos principales:
 
-- **Nombre completo:** Felix Contreras.
+- **Nombre completo:** Félix Contreras.
+- **Nacionalidad:** Desconocida.
 - **Rut:** Desconocido.
 - **Edad:** Desconocida.
 - **Ascendencia:** Desconocida.
@@ -40,14 +41,23 @@ tags:
 ## Percepción:
 
 - Posible [[Defensor]].
+
 ## Eventos relevantes:
 
 - Sin mayores anotaciones.
+
 ## Red de contactos:
 
-| Contacto   | Relación               |
-|------------|------------------------|
-| [[Celina]]     | Posible pareja o ex.   |
+| Contacto         | Relación             |
+| ---------------- | -------------------- |
+| [[Celina]]       | Posible pareja o ex. |
+| [[El Portugués]] | Posible compañero.                     |
+
+## Refugios:
+
+| Refugio   | Descripción |
+| --------- | ----------- |
+| Refugio 1 | Detalle     |
 
 ## Relaciones con organizaciones:
 

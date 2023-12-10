@@ -17,21 +17,16 @@ location:
 - **Teléfono:** Desconocido.
 - **Dirección:** Sargento Aldea 196 N° 402, Talcahuano, Región del Bío Bío.
 
-# Información interna.
-
-## Personal asociado:
-
-- Individuos clave asociados al lugar y sus roles.
-
 # Información adicional.
 
 ## Descripción:
 
-- Descripción más detallada del lugar.
+- Departamento ubicado en un cuarto piso, con vista a la plaza de armas de Talcahuano.
+- Cuenta con living-comedor, baño, cocina y una habitación.
 
 ## Eventos relevantes:
 
-- Acontecimientos clave que ocurrieron en el lugar.
+- [[Esteban Ignacio Gallardo Ríos]] realiza tratamiento médico a [[Leonidas Pilato]] y [[Carl Knight]].
 
 ## Notas especiales:
 

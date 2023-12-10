@@ -12,4 +12,4 @@ tags:
 | [[Geo']]                              | [[GM]]                                |
 | [[Mane]]                              | [[Merlina]]                           |
 | [[Personaje cuyo nombre no recuerdo]] | [[Personaje cuyo nombre no recuerdo]] |
-| [[Pliskin]]                           | [[Felix Contreras]]                   |
+| [[Pliskin]]                           | [[Félix Contreras]]                   |

@@ -10,7 +10,7 @@ tags:
 | [[Clyde]]                           | [[Esteban Ignacio Gallardo Ríos]]     |
 | [[Connor]]                          | [[Carl Knight]]                         |
 | [[Cooler]]                          | [[Leonidas Pilato]]                          |
-| [[Pliskin]]                         | [[Felix Contreras]]                   |
+| [[Pliskin]]                         | [[Félix Contreras]]                   |
 | [[Mane]]                            | [[Merlina]]                           |
 | [[Persona cuyo nombre no recuerdo]] | [[Personaje cuyo nombre no recuerdo]] |
 # Historias
@@ -25,7 +25,7 @@ tags:
 
 [[Carl Knight]].
 [[Esteban Ignacio Gallardo Ríos]].
-[[Felix Contreras]].
+[[Félix Contreras]].
 [[Leonidas Pilato]].
 
 ### [[Sesión 2]].

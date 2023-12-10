@@ -9,7 +9,8 @@ tags:
 - Breve historia o eventos clave relacionados con el personaje.
 ## Datos principales:
 
-- **Nombre completo:** Merlina.
+- **Nombre completo:** Desconocido.
+- **Nacionalidad:** Desconocida.
 - **Rut:** Desconocido.
 - **Edad:** Desconocida.
 - **Ascendencia:** Desconocida.
@@ -36,14 +37,22 @@ tags:
 ## Percepción:
 
 - Anotaciones sobre como se percibe al personaje.
+
 ## Eventos relevantes:
 
 - Sin mayores anotaciones.
+
 ## Red de contactos:
 
 | Contacto   | Relación  |
 |------------|-----------|
 | Contacto 1 | Detalle   |
+
+## Refugios:
+
+| Refugio   | Descripción |
+| --------- | ----------- |
+| Refugio 1 | Detalle     |
 
 ## Relaciones con organizaciones:
 

@@ -3,4 +3,4 @@ tags:
   - NPC
   - Humano
 ---
-Posible pareja/divorciada de [[Felix Contreras]].
+Posible pareja/divorciada de [[Félix Contreras]].

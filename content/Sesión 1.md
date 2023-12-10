@@ -15,7 +15,7 @@ Asistenta Enfermería: [[Florencia Pérez]].
 
 ## Escena 2.
 
-[[Carl Knight]] recibe la visita del Dr [[Eduardo Filipo]], quien realiza un par de procedimientos poco estandar en el pacientem, usando una especie de linterna. El paciente tiene sus pertenencias a mano, de las cuales brota un ligero aroma a hierbas _medicinales_. Tras una breve conversación en los estacionamientos con el Dr, me entero que trabaja para la [[PDI]].
+[[Carl Knight]] recibe la visita del Dr [[Eduardo Filipo]], quien realiza un par de procedimientos poco estándar en el paciente, usando una especie de linterna. El paciente tiene sus pertenencias a mano, de las cuales brota un ligero aroma a hierbas *medicinales*. Tras una breve conversación en los estacionamientos con el Dr, me entero que trabaja para la [[PDI]].
 
 [[Marcelo Alejandro Miranda]] contacta, ofreciendo un nuevo peusto de trabajo, muy en contra del estilo de vida ascético, pero por respeto a su persona lo acepto, por un período de un mes. Como primer trabajo, debo realizar un informe sobre el estado de las camillas, para las mantenciones.
 
@@ -36,19 +36,19 @@ Asistenta Enfermería: [[Florencia Pérez]].
 | TH-123        | Estructura agrietada                      | Evaluar la integridad estructural y reemplazar|
 | TH-138        | Base tambaleante                          | Ajustar tornillos e inspeccionar la estabilidad|
 
-Terminando de envíar el informe, termino mi turno por el día.
+Terminando de enviar el informe, termino mi turno por el día.
 
 ## Escena 3.
 
-Llendo a la plaza de siempre (Canelo 540-548, Talcahuano), utilizo mi _talento_ una vez más mientras fumo un cigarillo, dibujando aquellas formas en el suelo con el pie mientras doy un breve paseo, solo que esta ves tiene éxito.
+Dirigiéndome a la [[Plaza Canelo|plaza]] (Canelo 540-548, Talcahuano), utilizo mi _talento_ una vez más mientras fumo un cigarillo, dibujando aquellas formas en el suelo con el pie mientras doy un breve paseo, solo que esta ves tiene éxito.
 
 Cuatro figuras se manifiestan:
-[[Leonidas Pilato]], [[Fundación Paz Ciudadana]] del parque.
+[[Leonidas Pilato]], [[Fundación Paz Ciudadana|Paz Ciudadana]] del parque.
 [[Niño 1]], aparentemente conocido de [[Leonidas Pilato]].
 [[Niña 1]], aparentemente conocida de [[Leonidas Pilato]].
-[[Felix Contreras]], al parecer un oficial. Porta un curioso símbolo de [[Defensor]].
+[[Félix Contreras]], al parecer un oficial. Porta un curioso símbolo de [[Defensor]].
 
-A falta de tiempo, se realiza el plan de fingir un ataque por parte de [[Felix Contreras]], para lo que manda a los niños a comprar pastillas efervescentes en la farmacia. Considerando que el plan no engañaría a paramédicos preparados, decido darle realismo, usando algo de electricidad propinada por un tazer de [[Leonidas Pilato]].
+A falta de tiempo, se realiza el plan de fingir un ataque por parte de [[Félix Contreras]], para lo que manda a los niños a comprar pastillas efervescentes en la farmacia. Considerando que el plan no engañaría a paramédicos preparados, decido darle realismo, usando algo de electricidad propinada por un tazer de [[Leonidas Pilato]].
 
 ```mermaid
 graph TD

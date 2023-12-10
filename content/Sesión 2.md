@@ -5,7 +5,7 @@ tags:
 # Sesión 2.
 ## Escena 1.
 
-Ambulancia, transportando a [[Felix Contreras]].
+Ambulancia, transportando a [[Félix Contreras]].
 
 Habitación 402, solicito a paramédicos qué revisen documentation, mientras la mission de extraer al [[Carl Knight]] esta en proceso por manos de [[Leonidas Pilato]].
 
@@ -13,24 +13,24 @@ Habitación 402, solicito a paramédicos qué revisen documentation, mientras la
 
 Me entero además de que el paciente en la habitación 406 ha sido secuestrado, lo que me indica que la misión de infiltrarse sigilosamente ha fracasado.
 
-Buscando a [[Felix Contreras]], encuentro datos de contacto en la base de datos de hospital. Número fijo y contacto. En el primero no contesta nadie, al segundo contesta una mujer, [[Celina]] quien parece interesada en saber la actual ubicación de [[Felix Contreras]]. Tras agradecer, corta. Sin más pistas que seguir por mi cuenta, decido buscar a [[Leonidas Pilato]].
+Buscando a [[Félix Contreras]], encuentro datos de contacto en la base de datos de hospital. Número fijo y contacto. En el primero no contesta nadie, al segundo contesta una mujer, [[Celina]] quien parece interesada en saber la actual ubicación de [[Félix Contreras]]. Tras agradecer, corta. Sin más pistas que seguir por mi cuenta, decido buscar a [[Leonidas Pilato]].
 
 ## Escena 2.
 
 Me dirijo a la caseta de guardias en la plaza, fijando que se encuentra su reemplazo [[Ricardo Sanhueza]], El cual tras distraerlo unos momentos alcanzo a percibir el listado de turnos y números de cada guardia asignado a la caseta.
 
-| Nombre    | Turnos semanales | Número de Teléfono |
-|-----------|------------------|--------------------|
-| [[Leonidas Pilato|Leonidas]]  | N-L-D-D-N-L-D    | +569 xxxx 1397     |
-| Valentina | D-N-L-D-D-N-L    | +569 xxxx 6619     |
-| [[Ricardo Sanhueza\|Ricardo]]   | D-D-N-L-D-D-N    | +569 xxxx 5614     |
-| Isabella  | L-D-D-N-L-D-D    | +569 xxxx 1811     |
+| Nombre                        | Turnos semanales | Número de Teléfono |
+| ----------------------------- | ---------------- | ------------------ |
+| [[Leonidas Pilato\|Leonidas]] | N-L-D-D-N-L-D    | +569 xxxx 1397     |
+| Valentina                     | D-N-L-D-D-N-L    | +569 xxxx 6619     |
+| [[Ricardo Sanhueza\|Ricardo]] | D-D-N-L-D-D-N    | +569 xxxx 5614     |
+| Isabella                      | L-D-D-N-L-D-D    | +569 xxxx 1811     |
 
 Teniendo esta información a mano, contacto con [[Leonidas Pilato]],  solo avisando "En una hora estaré fuera de Supermercados la Fama, donde esperaré 30 minutos." Supermercado ubicado a dos cuadras de la plaza de armas, en calle Valdivia 220.
 
 ## Escena 3.
 
-Mientras espero, intento nuevamente hacer aquello, solo para notar que un par de niños me observan, preguntando como lo hice. Contactan a [[Leonidas Pilato]], a quien para que me reconozca le menciono la palabra clave "Táser". Me informa su dirección en Sargento Aldea 196 N° 402, Talcahuano, que convenientemente está a 5 minutos caminando.
+Mientras espero, intento nuevamente hacer aquello, solo para notar que un par de niños me observan, preguntando como lo hice. Contactan a [[Leonidas Pilato]], a quien para que me reconozca le menciono la palabra clave "Taser". Me informa su dirección en Sargento Aldea 196 N° 402, Talcahuano, que convenientemente está a 5 minutos caminando.
 
 Niños mencionan a juguetero. [[Leonidas Pilato]] me entrega dirección de su domicilio. Al entrar noto que tiene una herida en su hombro derecho. Entendiendo que fue sorprendido durante el acto de secuestro, le entrego listado de medicamentos que necesitaré, además de farmacia [[Farmacia Barriosalud|Barriosalud]] y contacto [[Martina Soto]], donde puede adquirir medicamentos sin receta médica.
 

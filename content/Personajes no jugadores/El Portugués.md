@@ -1,9 +1,3 @@
----
-tags:
-  - PC
-  - Humano
-  - Hunter
----
 # Información general.
 
 ## Antecedentes:
@@ -11,8 +5,7 @@ tags:
 - Breve historia o eventos clave relacionados con el personaje.
 ## Datos principales:
 
-- **Nombre completo:** Desconocido.
-- **Nacionalidad:** Desconocida.
+- **Nombre completo:** El Portugués.
 - **Rut:** Desconocido.
 - **Edad:** Desconocida.
 - **Ascendencia:** Desconocida.
@@ -48,13 +41,7 @@ tags:
 
 | Contacto   | Relación  |
 |------------|-----------|
-| Contacto 1 | Detalle   |
-
-## Refugios:
-
-| Refugio   | Descripción |
-| --------- | ----------- |
-| Refugio 1 | Detalle     |
+| [[Félix Contreras]] | Posible compañero.   |
 
 ## Relaciones con organizaciones:
 

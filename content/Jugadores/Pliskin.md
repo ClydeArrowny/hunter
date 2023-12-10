@@ -4,4 +4,4 @@ tags:
 ---
 # Personaje.
 
-- [[Felix Contreras]].
+- [[Félix Contreras]].

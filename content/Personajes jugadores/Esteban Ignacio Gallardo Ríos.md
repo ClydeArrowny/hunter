@@ -12,10 +12,14 @@ aliases:
 
 ## Antecedentes:
 
-- Breve historia o eventos clave relacionados con el personaje.
+- Abandonó la escuela de medicina debido a deudas abrumadoras.
+- Traicionado por un excolega que robó su investigación compartida, ahora trabaja como conserje en un hospital.
+- Dotado de una memoria fotográfica, está desapegado de las posesiones materiales y busca la verdad para exponer la traición que empañó sus sueños.
+
 ## Datos principales:
 
 - **Nombre completo:** Esteban Ignacio Gallardo Ríos.
+- **Nacionalidad:** Chileno.
 - **Rut:** 19.766.091-0.
 - **Edad:** 25.
 - **Ascendencia:** Español Latino.
@@ -25,16 +29,14 @@ aliases:
 
 ## Datos laborales:
 
-- **Ocupación:** Desconocida.
-- **Lugar de trabajo:** Desconocido.
-- **Cargo:** Desconocido.
-- **Teléfono:** Desconocido.
-- **Dirección:** Desconocida.
+- **Ocupación:** Trabajador de la salud.
+- **Lugar de trabajo:** [[Hospital las Higueras de Talcahuano|Hospital las Higueras]].
+- **Cargo:** Jefe de camillas.
+- **Teléfono:** +564 1268 7000.
+- **Dirección:** Alto Horno 777, Talcahuano, Región del Bío Bío.
 
 ## Contacto:
 
-- **Teléfono móvil:** Desconocido.
-- **Teléfono fijo:** Desconocido.
 - **Domicilio:** Desconocido.
 - **Hunter-net tag:** Desconocido.
 
@@ -43,15 +45,33 @@ aliases:
 ## Percepción:
 
 - Anotaciones sobre como se percibe al personaje.
-## Eventos relevates:
 
-- Sin mayores anotaciones.
+## Eventos relevantes:
+
+- Traición por parte de [[Esteban Rodrigo Larraín Correa]].
+- Deudas y pérdida de fe en el sistema llevan a abandonar los estudios.
+- Contratado en el [[Hospital las Higueras de Talcahuano]].
+- Encuentro con [[Félix Contreras|otro cazador]].
+
 ## Red de contactos:
 
-| Contacto                           | Relación         |
-| ---------------------------------- | ---------------- |
-| [[Esteban Rodrigo Larraín Correa]] | Traicionado por. |
-|                                    |                  |
+| Persona                            | Relación                                                  |
+| ---------------------------------- | --------------------------------------------------------- |
+| [[Esteban Rodrigo Larraín Correa]] | Excompañero que robó nuestra investigación. Resentimiento |
+| [[Marcelo Alejandro Miranda]]      | Mentor y actual director del hospital.                    |
+| [[Sofía Benavente]]                | Jefa actual en el hospital.                               |
+| [[Desiderio Rojas]]                | Colega en el hospital.                                    |
+| [[Nicolás Cifuentes]]              | Otro colega en el hospital.                               |
+| [[Félix Contreras]]                | Posible cazador compañero.                                |
+| [[Leonidas Pilato]]                | Amigo/colega de [[Félix]].                                    |
+| [[Carl Knight]]                    | Paciente clandestino.                                     |
+| [[Martina Soto]]                   | Traficante en el mercado clandestino.                     |
+
+## Refugios:
+
+| Refugio               | Descripción                       |
+| --------------------- | --------------------------------- |
+| [[Domicilio Esteban]] | Domicilio principal en Talcahuano |
 
 ## Relaciones con organizaciones:
 
@@ -61,15 +81,5 @@ aliases:
 
 ## Notas especiales:
 
-- Cualquier detalle adicional que no encaje en las categorías anteriores.
-
-
-
-
-Trabaja como auxiliar de aseo en el [[Hospital las Higueras de Talcahuano|Hospital de Talcahuano]], bajo el mando de [[Sofía Benavente]], y la tutela de [[Marcelo Alejandro Miranda]], quien recientemente me ofreció un puesto como jefe de camilleros.
-
-El personaje está despojado de lo material y vive con lo necesario, sin ostentaciones. De mente particularmente ágil, es capaz de recordar todo sin dificultad y grabar información a la que estuvo brevemente expuesto.
-
-Por problemas económicos, jamás logró egresar de su carrera, lo que lo sumió en una profunda deuda.
-
-La verdad es que fue traicionado por [[Esteban Rodrigo Larraín Correa]], con quien escribían la tesis. Este decidió presentarla bajo su nombre y llevarse todo el crédito del trabajo compartido. Actualmente es un reconocido cirujano, a pesar de realmente adolecer de los conocimientos que dice tener. Este shock de realidad generó en [[Esteban Ignacio Gallardo Ríos]] su desapego y desinterés por las cosas. Sin embargo, no es un santo y espera el día de poder revelar la verdad y arruinar la vida de [[Esteban Rodrigo Larraín Correa|El hdp]].
+- Despojado de lo material, vive con lo necesario y tiene una mente ágil, capaz de recordar todo.
+- Espera el día de revelar la verdad y arruinar la vida de [[Esteban Rodrigo Larraín Correa]].
