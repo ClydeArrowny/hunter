@@ -15,9 +15,10 @@ tags:
 - **Nombre completo:** Felix Contreras.
 - **Rut:** Desconocido.
 - **Edad:** Desconocida.
-- **Raza:** Desconocida.
+- **Ascendencia:** Desconocida.
 - **Género:** Masculino.
 - **Estado civil:** Desconocido.
+- **Credo:** [[Defensor]].
 
 ## Datos laborales:
 

@@ -8,14 +8,14 @@ tags:
 
 Cerca de finalizar el turno en [[Hospital las Higueras de Talcahuano|las Higueras]], [[Desiderio Rojas]] se acerca para un break, con un sandwich y bebida, cortesía de la jefa [[Sofía Benavente]],  conversación que es prontamente interrumpida por [[Nicolás Cifuentes]] quien me pide ayuda con un paciente.
 
-En morgue se encuentra el cuerpo de [[El Connor]], al borde de la muerte, con multiples marcas de pinchazos. Dado que el ascensor se encuentra en mantención, y rumores de extrañas [[Cabezas con patas]] por parte del personal, la camilla con el paciente es subida por el montacargas.
+En morgue se encuentra el cuerpo de [[Carl Knight]], al borde de la muerte, con multiples marcas de pinchazos. Dado que el ascensor se encuentra en mantención, y rumores de extrañas [[Cabezas con patas]] por parte del personal, la camilla con el paciente es subida por el montacargas.
 Es llevado a la habitación 406, dado que es una habitación desocupada para este particular caso.
 
 Asistenta Enfermería: [[Florencia Pérez]].
 
 ## Escena 2.
 
-[[El Connor]] recibe la visita del Dr [[Eduardo Filipo]], quien realiza un par de procedimientos poco estandar en el pacientem, usando una especie de linterna. El paciente tiene sus pertenencias a mano, de las cuales brota un ligero aroma a hierbas _medicinales_. Tras una breve conversación en los estacionamientos con el Dr, me entero que trabaja para la [[PDI]].
+[[Carl Knight]] recibe la visita del Dr [[Eduardo Filipo]], quien realiza un par de procedimientos poco estandar en el pacientem, usando una especie de linterna. El paciente tiene sus pertenencias a mano, de las cuales brota un ligero aroma a hierbas _medicinales_. Tras una breve conversación en los estacionamientos con el Dr, me entero que trabaja para la [[PDI]].
 
 [[Marcelo Alejandro Miranda]] contacta, ofreciendo un nuevo peusto de trabajo, muy en contra del estilo de vida ascético, pero por respeto a su persona lo acepto, por un período de un mes. Como primer trabajo, debo realizar un informe sobre el estado de las camillas, para las mantenciones.
 
@@ -43,12 +43,12 @@ Terminando de envíar el informe, termino mi turno por el día.
 Llendo a la plaza de siempre (Canelo 540-548, Talcahuano), utilizo mi _talento_ una vez más mientras fumo un cigarillo, dibujando aquellas formas en el suelo con el pie mientras doy un breve paseo, solo que esta ves tiene éxito.
 
 Cuatro figuras se manifiestan:
-[[Leonidas]], [[Fundación Paz Ciudadana]] del parque.
-[[Niño 1]], aparentemente conocido de [[Leonidas]].
-[[Niña 1]], aparentemente conocida de [[Leonidas]].
+[[Leonidas Pilato]], [[Fundación Paz Ciudadana]] del parque.
+[[Niño 1]], aparentemente conocido de [[Leonidas Pilato]].
+[[Niña 1]], aparentemente conocida de [[Leonidas Pilato]].
 [[Felix Contreras]], al parecer un oficial. Porta un curioso símbolo de [[Defensor]].
 
-A falta de tiempo, se realiza el plan de fingir un ataque por parte de [[Felix Contreras]], para lo que manda a los niños a comprar pastillas efervescentes en la farmacia. Considerando que el plan no engañaría a paramédicos preparados, decido darle realismo, usando algo de electricidad propinada por un tazer de [[Leonidas]].
+A falta de tiempo, se realiza el plan de fingir un ataque por parte de [[Felix Contreras]], para lo que manda a los niños a comprar pastillas efervescentes en la farmacia. Considerando que el plan no engañaría a paramédicos preparados, decido darle realismo, usando algo de electricidad propinada por un tazer de [[Leonidas Pilato]].
 
 ```mermaid
 graph TD

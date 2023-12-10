@@ -8,8 +8,8 @@ tags:
 |---------------------------------|-----------------------------------|
 | [[Geo']]                            | [[GM]]                                |
 | [[Clyde]]                           | [[Esteban Ignacio Gallardo Ríos]]     |
-| [[Connor]]                          | [[El Connor]]                         |
-| [[Cooler]]                          | [[Leonidas]]                          |
+| [[Connor]]                          | [[Carl Knight]]                         |
+| [[Cooler]]                          | [[Leonidas Pilato]]                          |
 | [[Pliskin]]                         | [[Felix Contreras]]                   |
 | [[Mane]]                            | [[Merlina]]                           |
 | [[Persona cuyo nombre no recuerdo]] | [[Personaje cuyo nombre no recuerdo]] |
@@ -23,10 +23,10 @@ tags:
 
 [[GM|Dios]].
 
-[[El Connor]].
+[[Carl Knight]].
 [[Esteban Ignacio Gallardo Ríos]].
 [[Felix Contreras]].
-[[Leonidas]].
+[[Leonidas Pilato]].
 
 ### [[Sesión 2]].
 
@@ -34,7 +34,7 @@ tags:
 
 [[GM|Dios]].
 
-[[El Connor]].
+[[Carl Knight]].
 [[Esteban Ignacio Gallardo Ríos]].
-[[Leonidas]].
+[[Leonidas Pilato]].
 [[Merlina]].

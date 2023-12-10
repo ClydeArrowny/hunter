@@ -12,7 +12,7 @@ tags:
 - **Nombre completo:** Merlina.
 - **Rut:** Desconocido.
 - **Edad:** Desconocida.
-- **Raza:** Desconocida.
+- **Ascendencia:** Desconocida.
 - **Género:** Desconocido.
 - **Estado civil:** Desconocido.
 

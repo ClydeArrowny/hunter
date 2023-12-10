@@ -14,7 +14,7 @@ tags:
 - **Nombre completo:** Desconocido.
 - **Rut:** Desconocido.
 - **Edad:** Desconocida.
-- **Raza:** Desconocida.
+- **Ascendencia:** Desconocida.
 - **Género:** Desconocido.
 - **Estado civil:** Desconocido.
 

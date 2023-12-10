@@ -8,7 +8,63 @@ tags:
 aliases:
   - Celedos
 ---
-Actual personaje con el que juego. Pertenece al credo de la [[Visión]].
+# Información general.
+
+## Antecedentes:
+
+- Breve historia o eventos clave relacionados con el personaje.
+## Datos principales:
+
+- **Nombre completo:** Esteban Ignacio Gallardo Ríos.
+- **Rut:** 19.766.091-0.
+- **Edad:** 25.
+- **Ascendencia:** Español Latino.
+- **Género:** Masculino.
+- **Estado civil:** Soltero.
+- **Credo:** [[Visión]].
+
+## Datos laborales:
+
+- **Ocupación:** Desconocida.
+- **Lugar de trabajo:** Desconocido.
+- **Cargo:** Desconocido.
+- **Teléfono:** Desconocido.
+- **Dirección:** Desconocida.
+
+## Contacto:
+
+- **Teléfono móvil:** Desconocido.
+- **Teléfono fijo:** Desconocido.
+- **Domicilio:** Desconocido.
+- **Hunter-net tag:** Desconocido.
+
+# Información adicional.
+
+## Percepción:
+
+- Anotaciones sobre como se percibe al personaje.
+## Eventos relevates:
+
+- Sin mayores anotaciones.
+## Red de contactos:
+
+| Contacto                           | Relación         |
+| ---------------------------------- | ---------------- |
+| [[Esteban Rodrigo Larraín Correa]] | Traicionado por. |
+|                                    |                  |
+
+## Relaciones con organizaciones:
+
+| Organización                                                   | Relación   |
+| -------------------------------------------------------------- | ---------- |
+| [[Hospital las Higueras de Talcahuano\|Hospital las Higueras]] | Trabajador |
+
+## Notas especiales:
+
+- Cualquier detalle adicional que no encaje en las categorías anteriores.
+
+
+
 
 Trabaja como auxiliar de aseo en el [[Hospital las Higueras de Talcahuano|Hospital de Talcahuano]], bajo el mando de [[Sofía Benavente]], y la tutela de [[Marcelo Alejandro Miranda]], quien recientemente me ofreció un puesto como jefe de camilleros.
 
